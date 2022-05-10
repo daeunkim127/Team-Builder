@@ -61,7 +61,7 @@ describe("Employee", () => {
             expect(employeeEmail).toBe(email);
             
         })
-        it("should get name via getRole()", ()=> {
+        it("should get role via getRole()", ()=> {
             const role = "Employee";
             const employee=new Employee("Alice",100,"test@test.com");
             const employeeRole = employee.getRole();

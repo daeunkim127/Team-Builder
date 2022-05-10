@@ -23,7 +23,7 @@ describe("Manager", () => {
             
         })
        
-        it("should get name via getRole()", ()=> {
+        it("should get role via getRole()", ()=> {
             const role = "Manager";
             const manager=new Manager("Alice",100,"test@test.com",100);
             const managerRole = manager.getRole();
