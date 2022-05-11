@@ -19,7 +19,7 @@ When `node index.js` command is running, user needs to answer questions about ea
 
 ## Demonstration
 
-![animation](./images/demo.gif))
+![animation](./images/demo.gif)
 
 Animation above is a preview of the demonstration. To view a full video, find a link from following section.
 
